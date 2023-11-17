@@ -22,6 +22,10 @@
 
 - Читаем первую главу HoTT: https://hott.github.io/book/hott-online-7-g6913a1a.pdf (до Identity types)
 - Устанавливаем [rzk](http://rzk-lang.github.io/), можно через VScode extensions
+
+## Трансляция семинара
+
+https://webinar7.bmstu.ru/b/nep-n01-lrn-krg
   
 
 
